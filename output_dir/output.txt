@@ -1,0 +1,10 @@
+0.png	2
+1.png	2
+10.png	1
+2.png	2
+3.png	2
+4.png	0
+5.png	0
+6.png	0
+8.png	0
+9.png	1
